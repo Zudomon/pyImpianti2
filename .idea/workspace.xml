@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84c82b6f-7ed2-4994-a612-bb0c900b1ba3" name="Changes" comment="commit 3">
-      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+    <list default="true" id="84c82b6f-7ed2-4994-a612-bb0c900b1ba3" name="Changes" comment="commit 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -79,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638206712975</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit 4">
+      <created>1638207608887</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1638207608887</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +104,7 @@
     <MESSAGE value="commit 1" />
     <MESSAGE value="commit 2" />
     <MESSAGE value="commit 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 3" />
+    <MESSAGE value="commit 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 4" />
   </component>
 </project>
