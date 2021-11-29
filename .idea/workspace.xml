@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84c82b6f-7ed2-4994-a612-bb0c900b1ba3" name="Changes" comment="remove" />
+    <list default="true" id="84c82b6f-7ed2-4994-a612-bb0c900b1ba3" name="Changes" comment="commit 4">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,33 +106,8 @@
       <option name="project" value="LOCAL" />
       <updated>1638208465001</updated>
     </task>
-    <task id="LOCAL-00007" summary="test metodo e classe">
-      <created>1638208741604</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1638208741604</updated>
-    </task>
-    <task id="LOCAL-00008" summary="remove">
-      <created>1638212854032</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1638212854032</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
+    <option name="localTasksCounter" value="7" />
     <servers />
-  </component>
-  <component name="Vcs.Log.History.Properties">
-    <option name="COLUMN_ID_ORDER">
-      <list>
-        <option value="Default.Root" />
-        <option value="Default.Author" />
-        <option value="Default.Date" />
-        <option value="Default.Subject" />
-        <option value="Space.CommitStatus" />
-      </list>
-    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -149,8 +126,6 @@
     <MESSAGE value="commit 2" />
     <MESSAGE value="commit 3" />
     <MESSAGE value="commit 4" />
-    <MESSAGE value="test metodo e classe" />
-    <MESSAGE value="remove" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 4" />
   </component>
 </project>
