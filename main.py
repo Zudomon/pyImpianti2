@@ -4,6 +4,19 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 from subprocess import call
 
+class metodo1:
+    """
+    metodo 1 come funziona ? scopriamolo insieme
+    """
+    def f1(self,parametro1):
+        """
+        funzione 1 come funziona ?
+        :param parametro1: primo parametro che in input
+        :return: la somma  + 1 del primo parametro
+        """
+        fine1 = parametro1 + 1
+        return fine1
+
 def print_hi(name):
     """
     :param name: il nome passato come stringa
